@@ -1,0 +1,22 @@
+ALGORITHM Dot product
+VAR
+V1: ARRAY_OF INTEGER;
+V2: ARRAY_OF INTEGER;
+A:BOOLEAN;
+BEGIN
+    FUNCTION function_DOT(i,j,x:INTEGER) : BOOLEAN
+
+    VAR
+    while(i=0;i=length.v1;i++) Do
+    while(i=0;j=length.v2;ij++) Do
+    X:= v1[i]*v2[j];
+END
+END
+
+IF (x :=0 ) THEN
+    A:= True;
+ELSE
+    A:= False;
+END_IF
+    END
+END
